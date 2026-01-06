@@ -22,8 +22,9 @@ The app provides a clean UI and smooth user experience, built using modern Andro
 - **Version Control:** Git & GitHub  
 
 ---
-
 ## 📂 Project Structure
+
+```plaintext
 MyChatGpt/
 ├── app/
 ├── gradle/
@@ -33,4 +34,5 @@ MyChatGpt/
 ├── gradlew.bat
 ├── gradle.properties
 └── .gitignore
+
 
