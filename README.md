@@ -25,8 +25,12 @@ The app provides a clean UI and smooth user experience, built using modern Andro
 
 ## 📂 Project Structure
 MyChatGpt/
-│── app/
-│── gradle/
-│── build.gradle
-│── settings.gradle
-│── gradlew
+├── app/
+├── gradle/
+├── build.gradle
+├── settings.gradle
+├── gradlew
+├── gradlew.bat
+├── gradle.properties
+└── .gitignore
+
